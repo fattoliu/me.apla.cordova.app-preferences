@@ -34,6 +34,14 @@
     "shelljs": "^0.8.1",
     "xcode": "^2.0.0"
   },
+  "dependencies": {
+    "cordova": "^9.0.0",
+    "cordova-lib": "^9.0.0",
+    "elementtree": "^0.1.6",
+    "plist": "1.2.0",
+    "q": "^1.4.1",
+    "xcode": "^2.0.0"
+  },
   "keywords": [
     "preferences",
     "settings",
